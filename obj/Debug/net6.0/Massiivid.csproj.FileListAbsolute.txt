@@ -1,0 +1,15 @@
+C:\Users\37253\Desktop\Massive\Massiivid\bin\Debug\net6.0\Massiivid.exe
+C:\Users\37253\Desktop\Massive\Massiivid\bin\Debug\net6.0\Massiivid.deps.json
+C:\Users\37253\Desktop\Massive\Massiivid\bin\Debug\net6.0\Massiivid.runtimeconfig.json
+C:\Users\37253\Desktop\Massive\Massiivid\bin\Debug\net6.0\Massiivid.dll
+C:\Users\37253\Desktop\Massive\Massiivid\bin\Debug\net6.0\Massiivid.pdb
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.csproj.AssemblyReference.cache
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.AssemblyInfoInputs.cache
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.AssemblyInfo.cs
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.csproj.CoreCompileInputs.cache
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.dll
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\ref\Massiivid.dll
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.pdb
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\Massiivid.genruntimeconfig.cache
+C:\Users\37253\Desktop\Massive\Massiivid\obj\Debug\net6.0\refint\Massiivid.dll
